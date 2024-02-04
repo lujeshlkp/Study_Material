@@ -1,0 +1,14 @@
+  git init
+  git add -A
+  git status
+  git log
+  git commit -m "study"
+  git log
+  git remote add origin git@github.com: lujeshlkp/Study_Material.git
+  git push
+  git remote add origin https://github.com/lujeshlkp/Study_Material.git
+  git remote set-url origin https://github.com/lujeshlkp/Study_Material.git
+  git push -u -f origin main
+  git remote -v
+  git push origin master
+  
